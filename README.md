@@ -39,7 +39,7 @@ _Exploring:_ `SQL` `Power BI` `Python` `Pandas`
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jeedipalli-sravani) *(add your profile link)*
+- [LinkedIn](https://www.linkedin.com/in/jeedipalli-sravani)
 - 📧 Email: jeedipallisravani@gmail.com
 
 ---
